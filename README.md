@@ -24,4 +24,6 @@ Turning caffeine into code and trying to understand neural networks.
 
 ### 📫 Connect
 
-[GitHub](https://github.com/AkshatSaxena476g)
+Gmail : [akshatsaxena7april2005@gmail.com](akshatsaxena7april2005@gmail.com)
+GitHub : [AkshatSaxena476g](https://github.com/AkshatSaxena476g)
+Twitter : [Akshat476](https://x.com/Akshat476)
