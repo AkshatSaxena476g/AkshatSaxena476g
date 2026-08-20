@@ -1,51 +1,27 @@
-# Hi, I'm Akshat
+# Hey, I'm Akshat 👋
 
-BCA student interested in software development, Machine Learning, and Artificial Intelligence.
+> Currently figuring out how computers learn stuff.
 
-## About Me
+Also into **software development**, **web tech**, and exploring different corners of **computer science**.
 
-I'm currently building my foundations in Machine Learning and gradually moving toward Deep Learning. I enjoy understanding how things work under the hood and applying what I learn by building practical applications.
+### 🧠 Currently Learning
 
-I'm also interested in software development, web technologies, and exploring different areas of computer science.
+`Machine Learning` → `Deep Learning`
 
-## Currently Learning
+### 💻 Tech I Work With
 
-* Machine Learning
-* Deep Learning
-* Python for Data Science and AI
-* NumPy, Pandas, and Scikit-learn
-* Data Structures and Algorithms
+**Languages & Web**
 
-## Tech Stack
+`Python` • `Java` • `C` • `JavaScript` • `React` • `HTML` • `CSS`
 
-### Languages
+**Database & Tools**
 
-Python • Java • C • JavaScript
+`MongoDB` • `SQL` • `Git` • `GitHub`
 
-### Web Development
+### ☕ Currently
 
-HTML • CSS • JavaScript
+Turning caffeine into code and trying to understand neural networks.
 
-### Databases
+### 📫 Connect
 
-MongoDB • SQL
-
-### Tools
-
-Git • GitHub • VS Code • Cursor
-
-## Areas of Interest
-
-Machine Learning • Deep Learning • Artificial Intelligence • Software Development • Web Development
-
-## Currently Working On
-
-Strengthening my Machine Learning fundamentals and building a solid foundation for Deep Learning.
-
-## Connect With Me
-
-GitHub: [AkshatSaxena476g](https://github.com/AkshatSaxena476g)
-
----
-
-Always learning, building, and improving.
+[GitHub](https://github.com/AkshatSaxena476g)
