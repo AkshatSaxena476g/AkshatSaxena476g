@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Akshat
 
-<!--
-**AkshatSaxena476g/AkshatSaxena476g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student interested in software development, Machine Learning, and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my foundations in Machine Learning and gradually moving toward Deep Learning. I enjoy understanding how things work under the hood and applying what I learn by building practical applications.
+
+I'm also interested in software development, web technologies, and exploring different areas of computer science.
+
+## Currently Learning
+
+* Machine Learning
+* Deep Learning
+* Python for Data Science and AI
+* NumPy, Pandas, and Scikit-learn
+* Data Structures and Algorithms
+
+## Tech Stack
+
+### Languages
+
+Python • Java • C • JavaScript
+
+### Web Development
+
+HTML • CSS • JavaScript
+
+### Databases
+
+MongoDB • SQL
+
+### Tools
+
+Git • GitHub • VS Code • Cursor
+
+## Areas of Interest
+
+Machine Learning • Deep Learning • Artificial Intelligence • Software Development • Web Development
+
+## Currently Working On
+
+Strengthening my Machine Learning fundamentals and building a solid foundation for Deep Learning.
+
+## Connect With Me
+
+GitHub: [AkshatSaxena476g](https://github.com/AkshatSaxena476g)
+
+---
+
+Always learning, building, and improving.
