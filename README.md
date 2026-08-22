@@ -12,7 +12,7 @@ Also into **software development**, **web tech**, and exploring different corner
 
 **Languages & Web**
 
-`Python` • `Java` • `C` • `JavaScript` • `React` • `HTML` • `CSS`
+`Python` • `Java` • `C` • `JavaScript` • `TypeScript` • `React` • `HTML` • `CSS`
 
 **Database & Tools**
 
